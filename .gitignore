@@ -1,0 +1,7 @@
+target/
+.idea/
+.vscode/
+*.iml
+*.class
+
+# A senha do banco deve ser fornecida pela variavel ZOO_DB_PASSWORD.
