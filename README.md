@@ -2,6 +2,15 @@
 
 Aplicacao desktop em Java para cadastrar, consultar, editar e remover animais, especies e registros de alimentacao de um zoologico. O projeto usa heranca, polimorfismo, tratamento de excecoes, JDBC, MySQL e interface grafica Swing.
 
+
+👨‍💻 𝓓𝓮𝓼𝓮𝓷𝓿𝓸𝓵𝓿𝓭𝓸𝓻𝓮𝓼 𝓭𝓸 𝓟𝓻𝓸𝓳e𝓽𝓸
+
+| ID | Equipe |
+| :--: | :-----------------------------------------------------------------------: | 
+| 01 | Lucas Gabriel
+| 02 | Luhan Christyan Rodrigues
+| 03 | Pedro Araujo 
+
 ## Requisitos atendidos
 
 - Cadastro de especies e associacao de cada animal a uma especie.
